@@ -21,4 +21,4 @@
   <img align="center" alt="Jaiane-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">
 </div>
   
- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/JaianeOliveira/JaianeOliveira/blob/output/github-contribution-grid-snake.svg)

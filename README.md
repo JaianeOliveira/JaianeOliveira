@@ -11,7 +11,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaianeOliveira&langs_count=7&theme=graywhite"/>
 </div>
 
-  
+<!--
  <div style="display: inline;"><br>
   <img align="center" alt="Jaiane-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jaiane-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -20,5 +20,6 @@
   <img align="center" alt="Jaiane-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Jaiane-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">
 </div>
+ -->
   
  ![Snake animation](https://github.com/JaianeOliveira/JaianeOliveira/blob/output/github-contribution-grid-snake.svg)

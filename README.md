@@ -1,6 +1,8 @@
 # Hi 🖐️ i'm Jaiane Oliveira
 
 
+
+
 <div align='center'><a href='mailto:jaianeoliveira.dev@gmail.com' target='_blank'>
 <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' />
 </a>
@@ -8,6 +10,11 @@
 <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedlin' />
 </a>
 </div>
+
+### 
+
+- 🎓 Técnica em Informática pelo Instituto Federal de Alagoas - IFAL - Campus Palmeira dos Índios
+- 👩🏽‍💻 Estágiária do programa LabLuby da [Luby Software](https://luby.com.br/)
 
  ###
   

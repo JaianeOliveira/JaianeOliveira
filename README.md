@@ -22,13 +22,4 @@
 |---|---|
 
 
-  
-### 🛠️ Principais linguagens e ferramentas
-
-|Icon|Linguagem/Ferramenta|
-|---|---|
-|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  /> | Javascript|
-|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" width="42" alt="typescript logo"  /> | Typescript|
-|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  /> | React JS|
-|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  /> | React Native|
-|<img src="https://styled-components.com/atom.png" height="30" alt="css3 logo"  /> | Styled Coomponents|
+ 

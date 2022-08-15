@@ -1,4 +1,4 @@
-# Hi 🖐️ i'm Jaiane Oliveira
+# Hi 🖐️ i'm Jaiane
 
 
 

@@ -15,7 +15,6 @@
 
 - 🎓 Técnica em Informática pelo Instituto Federal de Alagoas - IFAL - Campus Palmeira dos Índios
 - 📖 Cursando Ciências da Computação na Universidade Federal de Alagoas - UFAL
-- 👩🏽‍💻 DEV Front-end na [Luby Software](https://luby.com.br/)
 
  ###
   

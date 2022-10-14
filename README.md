@@ -1,4 +1,5 @@
-# Hi 🖐️ i'm Jaiane
+<h1 align='center'>Jaiane Oliveira</h1>
+<h3 align='center'></h3>
 
 
 
@@ -15,6 +16,14 @@
 
 - 🎓 Técnica em Informática pelo Instituto Federal de Alagoas - IFAL - Campus Palmeira dos Índios
 - 📖 Cursando Ciências da Computação na Universidade Federal de Alagoas - UFAL
+- 🚀 Dev Front-End
+
+<div width='100%' align='center'>
+    <img width='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    <img width='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img width='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+</div>
+
 
  ###
   

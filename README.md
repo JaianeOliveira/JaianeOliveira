@@ -14,9 +14,10 @@
 
 ### 
 
+- 🚀 Dev Front-End React | React Native | Javascript | Typescript
 - 🎓 Técnica em Informática pelo Instituto Federal de Alagoas - IFAL - Campus Palmeira dos Índios
 - 📖 Cursando Ciências da Computação na Universidade Federal de Alagoas - UFAL
-- 🚀 Dev Front-End
+
 
 <div width='100%' align='center'>
     <img width='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />

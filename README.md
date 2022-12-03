@@ -1,35 +1,19 @@
-<h1 align='center'>Jaiane Oliveira</h1>
-<h3 align='center'></h3>
+# Jaiane Oliveira
+
+[![Twitter Badge](https://img.shields.io/badge/-@_JaianeOliveira-6A00E4?style=flat-square&labelColor=6A00E4&logo=twitter&logoColor=white&link=https://twitter.com/_JaianeOliveira)](https://twitter.com/_JaianeOliveira) 
+[![Linkedin Badge](https://img.shields.io/badge/-Jaiane%20Oliveira-6A00E4?style=flat-square&labelColor=6A00E4&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaianeoliveira/)](https://www.linkedin.com/in/jaianeoliveira/) 
+[![Gmail Badge](https://img.shields.io/badge/-jaianeoliveira.dev@gmail.com-6A00E4?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jaianeoliveirra.dev@gmail.com)](mailto:jaianeoliveira.dev@gmail.com)
 
 
+##
 
-
-<div align='center'><a href='mailto:jaianeoliveira.dev@gmail.com' target='_blank'>
-<img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' />
-</a>
-<a href='https://www.linkedin.com/in/jaianeoliveira/' target='_blank'>
-<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedlin' />
-</a>
+<div width='100%' align='start'>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=whit" />
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
 </div>
-
-### 
-
-- 🚀 Dev Front-End React | React Native | Javascript | Typescript
-- 🎓 Técnica em Informática pelo Instituto Federal de Alagoas - IFAL - Campus Palmeira dos Índios
-- 📖 Cursando Ciências da Computação na Universidade Federal de Alagoas - UFAL
-
-
-<div width='100%' align='center'>
-    <img width='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-    <img width='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    <img width='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-</div>
-
-
- ###
-  
-|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaianeOliveira&theme=github_dark&title_color=8257E5&icon_color=8257E5&locale=pt-BR&border_color=52525B&bg_color=18181B03&card_width=400&hide_border=true"/> | <a href="https://github.com/JaianeOliveira"><img alt="Jaiane Oliveira's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=JaianeOliveira&custom_title=Gr%C3%A1fico%20de%20Contribui%C3%A7%C3%B5es&theme=react-dark&color=ffffff&line=8257E5&hide_border=true" /></a>
-|---|---|
-
 
  

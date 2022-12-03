@@ -1,7 +1,5 @@
 # Jaiane Oliveira
 
-Jaiane Oliveira#0747
-
 ![Linkedin Badge](https://img.shields.io/badge/-Jaiane%20Oliveira%230747-6A00E4?style=flat-square&labelColor=6A00E4&logo=Discord&logoColor=white&link=https://www.linkedin.com/in/jaianeoliveira/)
 [![Linkedin Badge](https://img.shields.io/badge/-Jaiane%20Oliveira-6A00E4?style=flat-square&labelColor=6A00E4&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaianeoliveira/)](https://www.linkedin.com/in/jaianeoliveira/) 
 [![Gmail Badge](https://img.shields.io/badge/-jaianeoliveira.dev@gmail.com-6A00E4?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jaianeoliveirra.dev@gmail.com)](mailto:jaianeoliveira.dev@gmail.com)

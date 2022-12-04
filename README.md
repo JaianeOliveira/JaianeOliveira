@@ -21,20 +21,19 @@ Fullstack software developer working with React, React Native and NextJS on the 
 
 Coursing Computer Science at the Federal University of Alagoas. Technician in informatics by the Federal Institute of Alagoas.
 
-
 ##
 
-![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Typescript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![NodeJS Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express Badge](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=ffffff)
-![ReactJS Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native Badge](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![NextJs Badge](https://img.shields.io/badge/NextJS-111111?style=for-the-badge&logo=next.js&logoColor=ffffff)
-![NestJS Badge](https://img.shields.io/badge/NestJs-111111?style=for-the-badge&logo=nestjs&logoColor=E0234E)
-![Styled Components Badge](https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![Sass Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Typescript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![NodeJS Badge](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+![Express Badge](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=ffffff)
+![ReactJS Badge](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![React Native Badge](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![NextJs Badge](https://img.shields.io/badge/NextJS-111111?style=flat&logo=next.js&logoColor=ffffff)
+![NestJS Badge](https://img.shields.io/badge/NestJs-111111?style=flat&logo=nestjs&logoColor=E0234E)
+![Styled Components Badge](https://img.shields.io/badge/Styled_Components-DB7093?style=flat&logo=styled-components&logoColor=white)
+![Sass Badge](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
+![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 
 

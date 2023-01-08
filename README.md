@@ -8,18 +8,10 @@
 
 ### Sobre mim
 
-Desenvolvedora de software fullstack atuando no front-end com tecnologias como React, React Native e NextJS e no backend com Node, Express e NestJS.
+Desenvolvedora de software fullstack atuando no front-end com tecnologias como React, React Native e NextJS e no backend com Node e Express.
 
 Discente do curso de Ciência da Computação na Universidade Federal de Alagoas. Técnica em Informática pelo Instituto Federal de Alagoas.
 
-
-##
-
-### About me
-
-Fullstack software developer working with React, React Native and NextJS on the frontend and NodeJs, Express and NestJS on the backend.
-
-Coursing Computer Science at the Federal University of Alagoas. Technician in informatics by the Federal Institute of Alagoas.
 
 ##
 

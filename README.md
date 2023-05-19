@@ -1,10 +1,10 @@
 # Jaiane Oliveira
 
-![Linkedin Badge](https://img.shields.io/badge/-Jaiane%20Oliveira%230747-6A00E4?style=flat&labelColor=6A00E4&logo=Discord&logoColor=white&link=https://www.linkedin.com/in/jaianeoliveira/)
-[![Linkedin Badge](https://img.shields.io/badge/-Jaiane%20Oliveira-6A00E4?style=flat&labelColor=6A00E4&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaianeoliveira/)](https://www.linkedin.com/in/jaianeoliveira/) 
-[![Gmail Badge](https://img.shields.io/badge/-jaianeoliveira.dev@gmail.com-6A00E4?style=flat&logo=Gmail&logoColor=white&link=mailto:jaianeoliveirra.dev@gmail.com)](mailto:jaianeoliveira.dev@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-@jai.oliiveira-6A00E4?style=flat&labelColor=6A00E4&logo=instagram&logoColor=white&link=https://instagram.com/jai.oliiveira)](https://instagram.com/jai.oliiveira)
-[![Twitter Badge](https://img.shields.io/badge/-@_JaianeOliveira-6A00E4?style=flat&labelColor=6A00E4&logo=twitter&logoColor=white&link=https://twitter.com/_JaianeOliveira)](https://twitter.com/_JaianeOliveira) 
+![Linkedin Badge](https://img.shields.io/badge/-Jaiane%20Oliveira%230747-F68920?style=flat&labelColor=F68920&logo=Discord&logoColor=white&link=https://www.linkedin.com/in/jaianeoliveira/)
+[![Linkedin Badge](https://img.shields.io/badge/-Jaiane%20Oliveira-F68920?style=flat&labelColor=F68920&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaianeoliveira/)](https://www.linkedin.com/in/jaianeoliveira/) 
+[![Gmail Badge](https://img.shields.io/badge/-jaianeoliveira.dev@gmail.com-F68920?style=flat&logo=Gmail&logoColor=white&link=mailto:jaianeoliveirra.dev@gmail.com)](mailto:jaianeoliveira.dev@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-@jai.oliiveira-F68920?style=flat&labelColor=F68920&logo=instagram&logoColor=white&link=https://instagram.com/jai.oliiveira)](https://instagram.com/jai.oliiveira)
+[![Twitter Badge](https://img.shields.io/badge/-@_JaianeOliveira-F68920?style=flat&labelColor=F68920&logo=twitter&logoColor=white&link=https://twitter.com/_JaianeOliveira)](https://twitter.com/_JaianeOliveira) 
 
 ### Sobre mim
 

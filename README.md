@@ -12,16 +12,6 @@ Desenvolvedora frontend para web utilizando tecnologias como React e NextJS.
 Cursando Ciência da Computação na Universidade Federal de Alagoas. 
 Técnica em Informática para internet pelo Instituto Federal de Alagoas.
 
-### Stack
-#### Linguagens
-Javascript/Typescript, Python
-
-#### Frontend
-NextJS, ReactJS, HTML/CSS, SASS, TailwindCSS, Styled-Components
-
-#### Backend
-Express, Fastify, MySQL, PostgreSQL
-
 ##
 
 ![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)

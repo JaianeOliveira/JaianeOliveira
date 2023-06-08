@@ -1,17 +1,26 @@
 # Jaiane Oliveira
 
-![Linkedin Badge](https://img.shields.io/badge/-Jaiane%20Oliveira%230747-F68920?style=flat&labelColor=F68920&logo=Discord&logoColor=white&link=https://www.linkedin.com/in/jaianeoliveira/)
-[![Linkedin Badge](https://img.shields.io/badge/-Jaiane%20Oliveira-F68920?style=flat&labelColor=F68920&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaianeoliveira/)](https://www.linkedin.com/in/jaianeoliveira/) 
-[![Gmail Badge](https://img.shields.io/badge/-jaianeoliveira.dev@gmail.com-F68920?style=flat&logo=Gmail&logoColor=white&link=mailto:jaianeoliveirra.dev@gmail.com)](mailto:jaianeoliveira.dev@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-@jai.oliiveira-F68920?style=flat&labelColor=F68920&logo=instagram&logoColor=white&link=https://instagram.com/jai.oliiveira)](https://instagram.com/jai.oliiveira)
-[![Twitter Badge](https://img.shields.io/badge/-@_JaianeOliveira-F68920?style=flat&labelColor=F68920&logo=twitter&logoColor=white&link=https://twitter.com/_JaianeOliveira)](https://twitter.com/_JaianeOliveira) 
+![Linkedin Badge](https://img.shields.io/badge/-Jaiane%20Oliveira%230747-66179D?style=for-the-badge&labelColor=66179D&logo=Discord&logoColor=white&link=https://www.linkedin.com/in/jaianeoliveira/)
+[![Linkedin Badge](https://img.shields.io/badge/-Jaiane%20Oliveira-66179D?style=for-the-badge&labelColor=66179D&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaianeoliveira/)](https://www.linkedin.com/in/jaianeoliveira/) 
+[![Gmail Badge](https://img.shields.io/badge/-jaianeoliveira.dev@gmail.com-66179D?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jaianeoliveirra.dev@gmail.com)](mailto:jaianeoliveira.dev@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@_JaianeOliveira-66179D?style=for-the-badge&labelColor=66179D&logo=twitter&logoColor=white&link=https://twitter.com/_JaianeOliveira)](https://twitter.com/_JaianeOliveira) 
 
 ### Sobre mim
 
-Desenvolvedora de software fullstack atuando no front-end com tecnologias como React, React Native e NextJS e no backend com Node e Express.
+Desenvolvedora frontend para web utilizando tecnologias como React e NextJS.
 
-Discente do curso de Ciência da Computação na Universidade Federal de Alagoas. Técnica em Informática pelo Instituto Federal de Alagoas.
+Cursando Ciência da Computação na Universidade Federal de Alagoas. 
+Técnica em Informática para internet pelo Instituto Federal de Alagoas.
 
+### Stack
+#### Linguagens
+Javascript/Typescript, Python
+
+#### Frontend
+NextJS, ReactJS, HTML/CSS, SASS, TailwindCSS, Styled-Components
+
+#### Backend
+Express, Fastify, MySQL, PostgreSQL
 
 ##
 

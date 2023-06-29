@@ -7,10 +7,18 @@
 
 ### Sobre mim
 
-Desenvolvedora frontend para web utilizando tecnologias como React e NextJS.
+👩🏻‍💻 Desenvolvedora frontend especializada em React, NextJS e Typescript/Javascript.
 
-Cursando Ciência da Computação na Universidade Federal de Alagoas. 
-Técnica em Informática para internet pelo Instituto Federal de Alagoas.
+🎓 Cursando Ciência da Computação pela Universidade Federal de Alagoas(UFAL). Técnica em Informática para Internet pelo Instituto Federal de Alagoas(IFAL).
+
+🌎 Apaixonada por desafios, estou sempre buscando soluções inovadoras para problemas do dia a dia.
+
+📍Atualmente em Alagoas, Brasil, com disponibilidade para projetos remotos em todo o mundo.
+
+
+
+> *Clique [aqui](https://jaianeoliveira.notion.site/jaianeoliveira/Jaiane-Oliveira-ba4efcf29df647fb911dd9dc46f75701) e saiba mais sobre o meu trabalho.*
+
 
 ##
 

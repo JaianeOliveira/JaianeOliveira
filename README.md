@@ -1,23 +1,24 @@
 # Jaiane Oliveira
 
-![Linkedin Badge](https://img.shields.io/badge/-Jaiane%20Oliveira%230747-66179D?style=for-the-badge&labelColor=66179D&logo=Discord&logoColor=white&link=https://www.linkedin.com/in/jaianeoliveira/)
+![Linkedin Badge](https://img.shields.io/badge/-jaianeOliveira-66179D?style=for-the-badge&labelColor=66179D&logo=Discord&logoColor=white&link=https://www.linkedin.com/in/jaianeoliveira/)
 [![Linkedin Badge](https://img.shields.io/badge/-Jaiane%20Oliveira-66179D?style=for-the-badge&labelColor=66179D&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaianeoliveira/)](https://www.linkedin.com/in/jaianeoliveira/) 
 [![Gmail Badge](https://img.shields.io/badge/-jaianeoliveira.dev@gmail.com-66179D?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jaianeoliveirra.dev@gmail.com)](mailto:jaianeoliveira.dev@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/-@_JaianeOliveira-66179D?style=for-the-badge&labelColor=66179D&logo=twitter&logoColor=white&link=https://twitter.com/_JaianeOliveira)](https://twitter.com/_JaianeOliveira) 
 
-### Sobre mim
+## Sobre mim
 
-👩🏻‍💻 Desenvolvedora frontend especializada em React, NextJS e Typescript/Javascript.
+Desenvolvedora frontend especializada em React, NextJS e Typescript/Javascript.
 
-🎓 Cursando Ciência da Computação pela Universidade Federal de Alagoas(UFAL). Técnica em Informática para Internet pelo Instituto Federal de Alagoas(IFAL).
+Transformando ideias em realidade através do código. Apaixonada por desafios, estou sempre buscando soluções inovadoras para problemas do dia a dia. 
 
-🌎 Apaixonada por desafios, estou sempre buscando soluções inovadoras para problemas do dia a dia.
+Cursando Ciência da Computação pela Universidade Federal de Alagoas - UFAL. Técnica em Informática para Internet pelo Instituto Federal de Alagoas - IFAL.
 
-📍Atualmente em Alagoas, Brasil, com disponibilidade para projetos remotos em todo o mundo.
+<br>
 
+*📌 Atualmente em Alagoas, Brasil, com disponibilidade para projetos remotos em todo o mundo.*
 
+<br>
 
-> *Clique [aqui](https://jaianeoliveira.notion.site/jaianeoliveira/Jaiane-Oliveira-ba4efcf29df647fb911dd9dc46f75701) e saiba mais sobre o meu trabalho.*
+*Clique [aqui](https://jaiane-oliveira.super.site) e saiba mais sobre o meu trabalho.*
 
 
 ##

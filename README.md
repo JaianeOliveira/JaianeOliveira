@@ -66,6 +66,12 @@ Desenvolvedora com cerca de dois anos de experiência em desenvolvimento web. At
   <img alt="Shows Anuraghazra's GitHub Stats." src="https://github-readme-stats.vercel.app/api/wakatime?username=jaianeoliveira&layout=compact&theme=transparent&title_color=9E21F6&text_color=222222&icon_color=222222&hide_border=true&locale=pt-br&hide_progress=true&langs_count=10&custom_title=Esta+semana">
 </picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ashutosh00710&color=f2f2f280&line=9E21F6&point=9E21F6&area=true&hide_border=true&height=250&custom_title=Contribui%C3%A7%C3%B5es&bg_color=22222200&area_color=9E21F6">
+  <img alt="Shows Anuraghazra's GitHub Stats." src="https://github-readme-activity-graph.vercel.app/graph?username=ashutosh00710&color=22222280&line=9E21F6&point=9E21F6&area=true&hide_border=true&height=250&custom_title=Contribui%C3%A7%C3%B5es&bg_color=22222200&area_color=9E21F6">
+</picture>
+
+
 ## Onde me encontrar
 
 - **E-mail**: [jaianeoliveira.dev@gmail.com](mailto:jaianeoliveira.dev@gmail.com)

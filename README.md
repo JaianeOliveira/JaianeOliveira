@@ -27,8 +27,8 @@ Cursando Ciência da Computação pela Universidade Federal de Alagoas - UFAL. T
   <img alt="Shows Anuraghazra's GitHub Stats." src="https://github-readme-stats.vercel.app/api?username=jaianeoliveira&show_icons=true&theme=transparent&count_private=true&title_color=9E21F6&text_color=222222&icon_color=222222&hide_border=true&locale=pt-br&hide_title=true">
 </picture>
 <picture>
-  <source media="(prefers-color-schema:dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jaianeoliveira&layout=compact&show_icons=true&theme=transparent&count_private=true&title_color=9E21F6&text_color=222222&icon_color=222222&hide_border=true&locale=pt-br&hide_title=true">
-  <img alt="Shows JaianeOliveira's Github Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaianeoliveira&layout=compact&show_icons=true&theme=transparent&count_private=true&title_color=9E21F6&text_color=f2f2f2&icon_color=f2f2f2&hide_border=true&locale=pt-br&hide_title=true" >
+  <source media="(prefers-color-schema:dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jaianeoliveira&layout=compact&show_icons=true&theme=transparent&count_private=true&title_color=9E21F6&text_color=f2f2f2&icon_color=f2f2f2&hide_border=true&locale=pt-br&hide_title=true">
+  <img alt="Shows JaianeOliveira's Github Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaianeoliveira&layout=compact&show_icons=true&theme=transparent&count_private=true&title_color=9E21F6&text_color=222222&icon_color=222222&hide_border=true&locale=pt-br&hide_title=true" >
 </picture>
 
 ##

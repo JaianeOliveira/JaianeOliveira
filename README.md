@@ -34,7 +34,7 @@ Desenvolvedora com cerca de dois anos de experiência em desenvolvimento web. At
   <a href="https://github.com/JaianeOliveira/solas">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jaianeoliveira&repo=solas&theme=transparent&hide_border=true&title_color=f2f2f2&text_color=f2f2f280&icon_color=9E21F6">
-      <img alt="Shows Anuraghazra's GitHub Stats." src="https://github-readme-stats.vercel.app/api/pin/?username=jaianeoliveira&repo=solas&theme=transparent&hide_border=true&title_color=f2f2f2&text_color=22222280&icon_color=9E21F6">
+      <img alt="Shows Anuraghazra's GitHub Stats." src="https://github-readme-stats.vercel.app/api/pin/?username=jaianeoliveira&repo=solas&theme=transparent&hide_border=true&title_color=222222&text_color=22222280&icon_color=9E21F6">
     </picture>
   </a>
 
@@ -46,7 +46,7 @@ Desenvolvedora com cerca de dois anos de experiência em desenvolvimento web. At
   <a href="https://github.com/JaianeOliveira/izar">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jaianeoliveira&repo=izar&theme=transparent&hide_border=true&title_color=f2f2f2&text_color=f2f2f280&icon_color=9E21F6">
-      <img alt="Shows Anuraghazra's GitHub Stats." src="https://github-readme-stats.vercel.app/api/pin/?username=jaianeoliveira&repo=izar&theme=transparent&hide_border=true&title_color=f2f2f2&text_color=22222280&icon_color=9E21F6">
+      <img alt="Shows Anuraghazra's GitHub Stats." src="https://github-readme-stats.vercel.app/api/pin/?username=jaianeoliveira&repo=izar&theme=transparent&hide_border=true&title_color=222222&text_color=22222280&icon_color=9E21F6">
     </picture>
   </a>
 
@@ -59,12 +59,11 @@ Desenvolvedora com cerca de dois anos de experiência em desenvolvimento web. At
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=jaianeoliveira&theme=transparent&hide_border=true&locale=pt_BR&ring=9E21F6&fire=9E21F6&stroke=9E21F6&currStreakNum=f2f2f2&sideNums=f2f2f2&currStreakLabel=9E21F6&sideLabels=9E21F6&dates=f2f2f275">
   <img alt="Shows Anuraghazra's GitHub Stats." src="https://streak-stats.demolab.com?user=jaianeoliveira&theme=transparent&hide_border=true&locale=pt_BR&ring=9E21F6&fire=9E21F6&stroke=9E21F6&currStreakNum=222222&sideNums=222222&currStreakLabel=9E21F6&sideLabels=9E21F6&dates=22222275">
 </picture>
-
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=jaianeoliveira&layout=compact&theme=transparent&title_color=9E21F6&text_color=f2f2f2&icon_color=f8f8f8&hide_border=true&locale=pt-br&hide_progress=true&langs_count=10&custom_title=Esta+semana">
   <img alt="Shows Anuraghazra's GitHub Stats." src="https://github-readme-stats.vercel.app/api/wakatime?username=jaianeoliveira&layout=compact&theme=transparent&title_color=9E21F6&text_color=222222&icon_color=222222&hide_border=true&locale=pt-br&hide_progress=true&langs_count=10&custom_title=Esta+semana">
 </picture>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ashutosh00710&color=f2f2f280&line=9E21F6&point=9E21F6&area=true&hide_border=true&height=250&custom_title=Contribui%C3%A7%C3%B5es&bg_color=22222200&area_color=9E21F6">

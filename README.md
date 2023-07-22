@@ -23,23 +23,6 @@ Cursando Ciência da Computação pela Universidade Federal de Alagoas - UFAL. T
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaianeoliveira&show_icons=true&theme=transparent&count_private=true&title_color=9E21F6&text_color=f2f2f2&icon_color=f8f8f8&hide_border=true&locale=pt-br)
 
 
-<div class="github-stats-card">
-  <!-- Seu card gerado pelo GitHub Readme Stats ou outra ferramenta -->
-  <img src="https://github-readme-stats.vercel.app/api?username=jaianeoliveira&show_icons=true&theme=dark" alt="GitHub Stats" />
-</div>
-
-<style>
-  /* Estilos para o tema dark */
-  .github-dark .github-stats-card {
-    background-color: #333;
-  }
-
-  /* Estilos para o tema white */
-  .github-light .github-stats-card {
-    background-color: #f5f5f5;
-  }
-</style>
-
 ##
 
 ![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)

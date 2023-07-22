@@ -6,32 +6,15 @@
 
 ## Sobre mim
 
-Desenvolvedora frontend especializada em React, NextJS e Typescript/Javascript.
+Desenvolvedora com cerca de dois anos de experiência em desenvolvimento web. Atuei na criação e manutenção de interfaces web com React e NextJS, aplicativos mobile com react-native e servidores backend com Node e NestJS.
 
 Transformando ideias em realidade através do código. Apaixonada por desafios, estou sempre buscando soluções inovadoras para problemas do dia a dia. 
 
 Cursando Ciência da Computação pela Universidade Federal de Alagoas - UFAL. Técnica em Informática para Internet pelo Instituto Federal de Alagoas - IFAL.
 
-<br>
 
-*📌 Atualmente em Alagoas, Brasil, com disponibilidade para projetos remotos em todo o mundo.*
+### Stack
 
-<br>
-
-*Clique [aqui](https://jaiane-oliveira.super.site) e saiba mais sobre o meu trabalho.*
-
-## Estatísticas
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=jaianeoliveira&show_icons=true&theme=transparent&count_private=true&title_color=9E21F6&text_color=f2f2f2&icon_color=f8f8f8&hide_border=true&locale=pt-br&hide_title=true">
-  <img alt="Shows Anuraghazra's GitHub Stats." src="https://github-readme-stats.vercel.app/api?username=jaianeoliveira&show_icons=true&theme=transparent&count_private=true&title_color=9E21F6&text_color=222222&icon_color=222222&hide_border=true&locale=pt-br&hide_title=true">
-</picture>
-<picture>
-  <source media="(prefers-color-schema:dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jaianeoliveira&layout=compact&show_icons=true&theme=transparent&count_private=true&title_color=9E21F6&text_color=f2f2f2&icon_color=f2f2f2&hide_border=true&locale=pt-br&hide_title=true">
-  <img alt="Shows JaianeOliveira's Github Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaianeoliveira&layout=compact&show_icons=true&theme=transparent&count_private=true&title_color=9E21F6&text_color=222222&icon_color=222222&hide_border=true&locale=pt-br&hide_title=true" >
-</picture>
-
-##
 
 ![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Typescript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
@@ -45,5 +28,48 @@ Cursando Ciência da Computação pela Universidade Federal de Alagoas - UFAL. T
 ![Sass Badge](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
 ![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
+## Projetos em destaque
+<div>
+  <img width=400 src="https://user-images.githubusercontent.com/82323559/247213347-f3cc49a6-d709-49c8-b635-9798b06b52fd.png"/>
+  <a href="https://github.com/JaianeOliveira/solas">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jaianeoliveira&repo=solas&theme=transparent&hide_border=true&title_color=f2f2f2&text_color=f2f2f280&icon_color=9E21F6">
+      <img alt="Shows Anuraghazra's GitHub Stats." src="https://github-readme-stats.vercel.app/api/pin/?username=jaianeoliveira&repo=solas&theme=transparent&hide_border=true&title_color=f2f2f2&text_color=22222280&icon_color=9E21F6">
+    </picture>
+  </a>
+
+</div>
+<br>
+
+<div>
+  <img width=400 src="https://github.com/JaianeOliveira/crater/assets/82323559/9455fb65-814c-416a-9863-a5d1baf49129"/>
+  <a href="https://github.com/JaianeOliveira/izar">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jaianeoliveira&repo=izar&theme=transparent&hide_border=true&title_color=f2f2f2&text_color=f2f2f280&icon_color=9E21F6">
+      <img alt="Shows Anuraghazra's GitHub Stats." src="https://github-readme-stats.vercel.app/api/pin/?username=jaianeoliveira&repo=izar&theme=transparent&hide_border=true&title_color=f2f2f2&text_color=22222280&icon_color=9E21F6">
+    </picture>
+  </a>
+
+</div>
 
 
+
+## Estatísticas
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=jaianeoliveira&theme=transparent&hide_border=true&locale=pt_BR&ring=9E21F6&fire=9E21F6&stroke=9E21F6&currStreakNum=f2f2f2&sideNums=f2f2f2&currStreakLabel=9E21F6&sideLabels=9E21F6&dates=f2f2f275">
+  <img alt="Shows Anuraghazra's GitHub Stats." src="https://streak-stats.demolab.com?user=jaianeoliveira&theme=transparent&hide_border=true&locale=pt_BR&ring=9E21F6&fire=9E21F6&stroke=9E21F6&currStreakNum=222222&sideNums=222222&currStreakLabel=9E21F6&sideLabels=9E21F6&dates=22222275">
+</picture>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=jaianeoliveira&layout=compact&theme=transparent&title_color=9E21F6&text_color=f2f2f2&icon_color=f8f8f8&hide_border=true&locale=pt-br&hide_progress=true&langs_count=10&custom_title=Esta+semana">
+  <img alt="Shows Anuraghazra's GitHub Stats." src="https://github-readme-stats.vercel.app/api/wakatime?username=jaianeoliveira&layout=compact&theme=transparent&title_color=9E21F6&text_color=222222&icon_color=222222&hide_border=true&locale=pt-br&hide_progress=true&langs_count=10&custom_title=Esta+semana">
+</picture>
+
+##
+
+<br>
+
+*📌 Atualmente em Alagoas, Brasil, com disponibilidade para projetos remotos em todo o mundo.*
+
+<br>

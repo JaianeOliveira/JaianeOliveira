@@ -76,5 +76,4 @@ Desenvolvedora com cerca de dois anos de experiência em desenvolvimento web. At
 <br>
 
 *📌 Atualmente em Alagoas, Brasil, com disponibilidade para projetos remotos em todo o mundo.*
-
-<br>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9E21F6&height=100&section=footer"/>

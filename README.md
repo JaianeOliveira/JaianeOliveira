@@ -66,7 +66,7 @@ Desenvolvedora com cerca de dois anos de experiência em desenvolvimento web. At
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ashutosh00710&color=f2f2f280&line=9E21F6&point=9E21F6&area=true&hide_border=true&height=250&custom_title=Contribui%C3%A7%C3%B5es&bg_color=22222200&area_color=9E21F6">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=jaianeoliveira&color=f2f2f280&line=9E21F6&point=9E21F6&area=true&hide_border=true&height=250&custom_title=Contribui%C3%A7%C3%B5es&bg_color=22222200&area_color=9E21F6">
   <img alt="Shows Anuraghazra's GitHub Stats." src="https://github-readme-activity-graph.vercel.app/graph?username=jaianeoliveira&color=22222280&line=9E21F6&point=9E21F6&area=true&hide_border=true&height=250&custom_title=Contribui%C3%A7%C3%B5es&bg_color=22222200&area_color=9E21F6">
 </picture>
 

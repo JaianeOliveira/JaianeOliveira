@@ -4,6 +4,10 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Jaiane%20Oliveira-9E21F6?style=for-the-badge&labelColor=9E21F6&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaianeoliveira/)](https://www.linkedin.com/in/jaianeoliveira/) 
 [![Gmail Badge](https://img.shields.io/badge/-jaianeoliveira.dev@gmail.com-9E21F6?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jaianeoliveirra.dev@gmail.com)](mailto:jaianeoliveira.dev@gmail.com)
 
+<a href="https://github.com/JaianeOliveira/JaianeOliveira/edit/main/README.md#sobre-mim">Sobre mim</a> · 
+  <a href="https://github.com/JaianeOliveira/JaianeOliveira/edit/main/README.md#projetos-em-destaque">Projetos em destaque</a> ·
+  <a href="https://github.com/JaianeOliveira/JaianeOliveira/edit/main/README.md#estat%C3%ADsticas">Estatísticas</a>
+
 ## Sobre mim
 
 Desenvolvedora com cerca de dois anos de experiência em desenvolvimento web. Atuei na criação e manutenção de interfaces web com React e NextJS, aplicativos mobile com react-native e servidores backend com Node e NestJS.
@@ -66,7 +70,8 @@ Cursando Ciência da Computação pela Universidade Federal de Alagoas - UFAL. T
   <img alt="Shows Anuraghazra's GitHub Stats." src="https://github-readme-stats.vercel.app/api/wakatime?username=jaianeoliveira&layout=compact&theme=transparent&title_color=9E21F6&text_color=222222&icon_color=222222&hide_border=true&locale=pt-br&hide_progress=true&langs_count=10&custom_title=Esta+semana">
 </picture>
 
-##
+## Contato
+
 
 <br>
 

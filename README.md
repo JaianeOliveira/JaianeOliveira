@@ -4,17 +4,13 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Jaiane%20Oliveira-9E21F6?style=for-the-badge&labelColor=9E21F6&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaianeoliveira/)](https://www.linkedin.com/in/jaianeoliveira/) 
 [![Gmail Badge](https://img.shields.io/badge/-jaianeoliveira.dev@gmail.com-9E21F6?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jaianeoliveirra.dev@gmail.com)](mailto:jaianeoliveira.dev@gmail.com)
 
-<a href="https://github.com/JaianeOliveira/JaianeOliveira/edit/main/README.md#sobre-mim">Sobre mim</a> · 
-  <a href="https://github.com/JaianeOliveira/JaianeOliveira/edit/main/README.md#projetos-em-destaque">Projetos em destaque</a> ·
-  <a href="https://github.com/JaianeOliveira/JaianeOliveira/edit/main/README.md#estat%C3%ADsticas">Estatísticas</a>
-
 ## Sobre mim
 
 Desenvolvedora com cerca de dois anos de experiência em desenvolvimento web. Atuei na criação e manutenção de interfaces web com React e NextJS, aplicativos mobile com react-native e servidores backend com Node e NestJS.
 
-Transformando ideias em realidade através do código. Apaixonada por desafios, estou sempre buscando soluções inovadoras para problemas do dia a dia. 
+> Transformando ideias em realidade através do código. Apaixonada por desafios, estou sempre buscando soluções inovadoras para problemas do dia a dia. 
 
-Cursando Ciência da Computação pela Universidade Federal de Alagoas - UFAL. Técnica em Informática para Internet pelo Instituto Federal de Alagoas - IFAL.
+🎓 Cursando Ciência da Computação pela Universidade Federal de Alagoas - UFAL. Técnica em Informática para Internet pelo Instituto Federal de Alagoas - IFAL.
 
 
 ### Stack

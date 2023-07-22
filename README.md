@@ -55,7 +55,7 @@ Desenvolvedora com cerca de dois anos de experiência em desenvolvimento web. At
 
 
 ## Estatísticas
-<picture style="width:50%;">
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=jaianeoliveira&theme=transparent&hide_border=true&locale=pt_BR&ring=9E21F6&fire=9E21F6&stroke=9E21F6&currStreakNum=f2f2f2&sideNums=f2f2f2&currStreakLabel=9E21F6&sideLabels=9E21F6&dates=f2f2f275">
   <img alt="Shows Anuraghazra's GitHub Stats." src="https://streak-stats.demolab.com?user=jaianeoliveira&theme=transparent&hide_border=true&locale=pt_BR&ring=9E21F6&fire=9E21F6&stroke=9E21F6&currStreakNum=222222&sideNums=222222&currStreakLabel=9E21F6&sideLabels=9E21F6&dates=22222275">
 </picture>

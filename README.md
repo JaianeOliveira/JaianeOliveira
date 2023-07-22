@@ -1,8 +1,8 @@
 # Jaiane Oliveira
 
-![Linkedin Badge](https://img.shields.io/badge/-jaianeOliveira-66179D?style=for-the-badge&labelColor=66179D&logo=Discord&logoColor=white&link=https://www.linkedin.com/in/jaianeoliveira/)
-[![Linkedin Badge](https://img.shields.io/badge/-Jaiane%20Oliveira-66179D?style=for-the-badge&labelColor=66179D&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaianeoliveira/)](https://www.linkedin.com/in/jaianeoliveira/) 
-[![Gmail Badge](https://img.shields.io/badge/-jaianeoliveira.dev@gmail.com-66179D?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jaianeoliveirra.dev@gmail.com)](mailto:jaianeoliveira.dev@gmail.com)
+![Linkedin Badge](https://img.shields.io/badge/-jaianeOliveira-9E21F6?style=for-the-badge&labelColor=9E21F6&logo=Discord&logoColor=white&link=https://www.linkedin.com/in/jaianeoliveira/)
+[![Linkedin Badge](https://img.shields.io/badge/-Jaiane%20Oliveira-9E21F6?style=for-the-badge&labelColor=9E21F6&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaianeoliveira/)](https://www.linkedin.com/in/jaianeoliveira/) 
+[![Gmail Badge](https://img.shields.io/badge/-jaianeoliveira.dev@gmail.com-9E21F6?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jaianeoliveirra.dev@gmail.com)](mailto:jaianeoliveira.dev@gmail.com)
 
 ## Sobre mim
 
@@ -20,6 +20,25 @@ Cursando Ciência da Computação pela Universidade Federal de Alagoas - UFAL. T
 
 *Clique [aqui](https://jaiane-oliveira.super.site) e saiba mais sobre o meu trabalho.*
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaianeoliveira&show_icons=true&theme=transparent&count_private=true&title_color=9E21F6&text_color=f2f2f2&icon_color=f8f8f8&hide_border=true&locale=pt-br)
+
+
+<div class="github-stats-card">
+  <!-- Seu card gerado pelo GitHub Readme Stats ou outra ferramenta -->
+  <img src="https://github-readme-stats.vercel.app/api?username=jaianeoliveira&show_icons=true&theme=dark" alt="GitHub Stats" />
+</div>
+
+<style>
+  /* Estilos para o tema dark */
+  .github-dark .github-stats-card {
+    background-color: #333;
+  }
+
+  /* Estilos para o tema white */
+  .github-light .github-stats-card {
+    background-color: #f5f5f5;
+  }
+</style>
 
 ##
 

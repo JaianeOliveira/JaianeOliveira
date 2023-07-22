@@ -20,12 +20,17 @@ Cursando Ciência da Computação pela Universidade Federal de Alagoas - UFAL. T
 
 *Clique [aqui](https://jaiane-oliveira.super.site) e saiba mais sobre o meu trabalho.*
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+## Estatísticas
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=jaianeoliveira&show_icons=true&theme=transparent&count_private=true&title_color=9E21F6&text_color=f2f2f2&icon_color=f8f8f8&hide_border=true&locale=pt-br">
-  <img alt="Shows Anuraghazra's GitHub Stats." src="https://github-readme-stats.vercel.app/api?username=jaianeoliveira&show_icons=true&theme=transparent&count_private=true&title_color=9E21F6&text_color=222222&icon_color=222222&hide_border=true&locale=pt-br">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=jaianeoliveira&show_icons=true&theme=transparent&count_private=true&title_color=9E21F6&text_color=f2f2f2&icon_color=f8f8f8&hide_border=true&locale=pt-br&hide_title=true">
+  <img alt="Shows Anuraghazra's GitHub Stats." src="https://github-readme-stats.vercel.app/api?username=jaianeoliveira&show_icons=true&theme=transparent&count_private=true&title_color=9E21F6&text_color=222222&icon_color=222222&hide_border=true&locale=pt-br&hide_title=true">
 </picture>
-</a>
+<picture>
+  <source media="(prefers-color-schema:dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jaianeoliveira&layout=compact&show_icons=true&theme=transparent&count_private=true&title_color=9E21F6&text_color=222222&icon_color=222222&hide_border=true&locale=pt-br&hide_title=true">
+  <img alt="Shows JaianeOliveira's Github Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaianeoliveira&layout=compact&show_icons=true&theme=transparent&count_private=true&title_color=9E21F6&text_color=f2f2f2&icon_color=f2f2f2&hide_border=true&locale=pt-br&hide_title=true" >
+</picture>
+
 ##
 
 ![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)

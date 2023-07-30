@@ -30,7 +30,7 @@ Desenvolvedora com cerca de dois anos de experiência em desenvolvimento web. At
 
 ## Projetos em destaque
 <div>
-  <img width=400 src="https://user-images.githubusercontent.com/82323559/247213347-f3cc49a6-d709-49c8-b635-9798b06b52fd.png"/>
+  <img width=400 src="https://github.com/JaianeOliveira/solas/assets/82323559/6430f889-7d6e-4687-8280-20777f9e675a"/>
   <a href="https://github.com/JaianeOliveira/solas">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jaianeoliveira&repo=solas&theme=transparent&hide_border=true&title_color=f2f2f2&text_color=f2f2f280&icon_color=9E21F6">

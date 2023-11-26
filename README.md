@@ -37,6 +37,7 @@ Desenvolvedora com cerca de dois anos de experiência em desenvolvimento web. At
   </a>
 
 </div>
+<br>
 
 <div>
   <img width=400 src="https://github.com/JaianeOliveira/achird-api/assets/82323559/e627e2f4-c30f-4852-baac-d432e342dd67"/>

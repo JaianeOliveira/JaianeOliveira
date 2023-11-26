@@ -38,6 +38,17 @@ Desenvolvedora com cerca de dois anos de experiência em desenvolvimento web. At
 
 </div>
 
+<div>
+  <img width=400 src="https://github.com/JaianeOliveira/achird-api/assets/82323559/ba88f97e-ea77-475d-86da-e9e4f9a3863e"/>
+  <a href="https://github.com/JaianeOliveira/achird-api">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jaianeoliveira&repo=achird-api&theme=transparent&hide_border=true&title_color=f2f2f2&text_color=f2f2f280&icon_color=9E21F6">
+      <img alt="Shows Anuraghazra's GitHub Stats." src="https://github-readme-stats.vercel.app/api/pin/?username=jaianeoliveira&repo=achird-api&theme=transparent&hide_border=true&title_color=222222&text_color=22222280&icon_color=9E21F6">
+    </picture>
+  </a>
+
+</div>
+
 
 
 ## Estatísticas

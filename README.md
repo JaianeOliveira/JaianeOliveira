@@ -84,7 +84,7 @@ Acompanhe o diário de bordo de um DEV que tenta desenvolver o primeiro grande p
 
 **Ultima postagem:** [Crônicas de Achird: Da Insegurança ao Portfólio Dinâmico](https://jaianeoliveira.notion.site/Cr-nicas-de-Achird-Da-Inseguran-a-ao-Portf-lio-Din-mico-fd1dc501d9364a63b5f8552dde7c4ba6), *Publicado em 3 de Dezembro de 2023*
 
-[Clique aqui para explorar as Crônicas de Achird](https://jaianeoliveira.notion.site/Cr-nicas-de-Achird-Da-Inseguran-a-ao-Portf-lio-Din-mico-fd1dc501d9364a63b5f8552dde7c4ba6).
+[Clique aqui para explorar as Crônicas de Achird](https://jaianeoliveira.notion.site/Cr-nicas-de-Achird-104bb5425ac945f3b6a23da22cc7d3e4?pvs=4).
 
 
 

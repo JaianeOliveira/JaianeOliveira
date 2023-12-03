@@ -51,7 +51,6 @@ Desenvolvedora com cerca de dois anos de experiência em desenvolvimento web. At
 </div>
 
 
-
 ## Estatísticas
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=jaianeoliveira&theme=transparent&hide_border=true&locale=pt_BR&ring=9E21F6&fire=9E21F6&stroke=9E21F6&currStreakNum=f2f2f2&sideNums=f2f2f2&currStreakLabel=9E21F6&sideLabels=9E21F6&dates=f2f2f275">
@@ -75,8 +74,18 @@ Desenvolvedora com cerca de dois anos de experiência em desenvolvimento web. At
 - **LinkedIn**: [jaianeoliveira](https://www.linkedin.com/in/jaianeoliveira/)
 - **Discord**: jaianeoliveira
 
-
 <br>
 
 *📌 Atualmente em Alagoas, Brasil, com disponibilidade para projetos remotos em todo o mundo.*
+
+
+## Crônicas de Achird: diário de bordo de um DEV
+Acompanhe o diário de bordo de um DEV que tenta desenvolver o primeiro grande projeto pessoal enquanto não tem coragem de postar isso nas redes sociais. Esses são relatos do dia a dia, desafios, aprendizados, frustrações e um pouco de vergolha alheia.
+
+**Ultima postagem:** [Crônicas de Achird: Da Insegurança ao Portfólio Dinâmico](https://jaianeoliveira.notion.site/Cr-nicas-de-Achird-Da-Inseguran-a-ao-Portf-lio-Din-mico-fd1dc501d9364a63b5f8552dde7c4ba6), *Publicado em 3 de Dezembro de 2023*
+
+[Clique aqui para explorar as Crônicas de Achird](https://jaianeoliveira.notion.site/Cr-nicas-de-Achird-Da-Inseguran-a-ao-Portf-lio-Din-mico-fd1dc501d9364a63b5f8552dde7c4ba6).
+
+
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9E21F6&height=100&section=footer"/>

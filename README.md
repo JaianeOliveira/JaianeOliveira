@@ -13,6 +13,36 @@ Desenvolvedora Full Stack com foco em soluções modernas e escaláveis. Tenho e
 - **Banco de Dados:** MySQL, MongoDB
 - **Linguagens de Programação:** JavaScript/TypeScript, Python
 
+## Projetos em Destaque
+
+### [TapNotes](https://tapnotes-ruby.vercel.app/)
+**Descrição:** O TapNotes é um editor de texto online focado em simplicidade e agilidade. Ele permite salvar notas localmente no navegador, funcionando como um bloco de notas rápido, similar ao editor de texto nativo do computador mas com suporte a Markdown e outras formatações avançadas.
+
+**Tecnologias:** Next.js 14, TypeScript, TailwindCSS, TipTap.
+
+**Principais Funcionalidades:**
+- Edição rápida de notas com salvamento local
+- Suporte a Markdown e formatações avançadas
+- Interface responsiva e otimizada
+
+**Repositórios:**
+- Frontend: https://github.com/JaianeOliveira/tapnotes
+
+---
+
+### [Achird](https://achird-xi.vercel.app/)
+**Descrição:** Achird é uma plataforma automática de criação de sites-portfólio para desenvolvedores, gerada diretamente a partir dos dados do perfil do GitHub. O usuário precisa apenas logar com o GitHub, e a plataforma monta o portfólio automaticamente, integrando seus projetos e informações de forma prática.
+
+**Tecnologias:** Next.js 13, TypeScript, TailwindCSS, MongoDB, Node.js, Express.
+
+**Principais Funcionalidades:**
+- Geração automática de portfólios a partir da API do GitHub
+- API REST seguindo princípios SOLID.
+- Integração completa entre frontend e backend.
+
+**Repositórios:**
+- Frontend: https://github.com/JaianeOliveira/achird-front
+- Backend: https://github.com/JaianeOliveira/achird-api-v2
 
 ## Experiência profissional
 

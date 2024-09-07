@@ -5,6 +5,7 @@ Desenvolvedora Full Stack com foco em soluções modernas e escaláveis. Tenho e
 
 - **E-mail**: [jaianeoliveira.dev@gmail.com](mailto:jaianeoliveira.dev@gmail.com)
 - **LinkedIn**: [jaianeoliveira](https://www.linkedin.com/in/jaianeoliveira/)
+- **Portfólio Online**: [https://jaianeoliveira.com/](https://jaianeoliveira.com/)
 
 ## 💻 Principais Tecnologias
 

@@ -4,8 +4,6 @@ Desenvolvedora Full Stack com 4 anos de experiência em produtos SaaS, atuando p
 
 Tenho experiência no desenvolvimento de sistemas web, integrações com APIs externas, automações e soluções voltadas à redução de esforço operacional.
 
----
-
 ## Main Stack
 
 **Frontend**  
@@ -20,7 +18,6 @@ JavaScript · TypeScript · Python
 **Bancos de dados**  
 MongoDB · PostgreSQL · Redis
 
----
 
 ## Principais Projetos
 
@@ -30,8 +27,6 @@ SaaS para organização e acompanhamento de candidaturas, com pipeline de aplica
 
 **Stack:** React · Node.js · PostgreSQL · Supabase  
 **Site:** https://hiremate.xyz
-
----
 
 ## Contato
 

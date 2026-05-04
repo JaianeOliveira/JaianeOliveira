@@ -33,5 +33,3 @@ SaaS para organização e acompanhamento de candidaturas, com pipeline de aplica
 **LinkedIn:** https://www.linkedin.com/in/jaianeoliveira/  
 **Portfólio:** https://jaianeoliveira.com  
 **E-mail:** jaianeoliveira.dev@gmail.com
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=9E21F6&height=80&section=footer"/>
